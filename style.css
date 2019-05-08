@@ -1,5 +1,21 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+
+
+body{
+	background:rgba(255,250,198,1);
+}
+
+h2{
+	font-family: 'Libre Baskerville', serif;
+	font-weight: 400;
+}
 #menu{
 	position: fixed;
 	bottom:2rem;
 	right:2.5rem;
+}
+.bg-pink{
+	background: rgba(234,185,205,1.00)
 }
